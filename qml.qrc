@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>glcode.js</file>
+        <file>error.qml</file>
+    </qresource>
+</RCC>
